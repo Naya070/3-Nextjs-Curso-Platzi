@@ -6,7 +6,7 @@ const ProductAttributes = ({
   ...otherAttributes
 }: TProductAttributes) => (
   <section className="container">
-    <Header as="h3">About this avocado</Header>
+    <Header as="h3">About this arepa</Header>
     <p>{description}</p>
 
     <Divider />
@@ -33,6 +33,7 @@ const ProductAttributes = ({
     <style jsx>{`
       .container :global(.attr-name) {
         text-transform: capitalize;
+        Background-color: gold;
       }
     `}</style>
   </section>

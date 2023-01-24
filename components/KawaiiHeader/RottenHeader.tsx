@@ -5,9 +5,9 @@ import { PosMeMuero } from '@components/SVGIcons'
 
 const RottenHeader = () => (
   <Header size="huge" as="h1">
-    Platzi
+    Are
     <PosMeMuero size="58px" />
-    Avo
+    Passion
   </Header>
 )
 

@@ -4,29 +4,29 @@ import Layout from '@components/Layout/Layout'
 
 const avoFacts = [
   {
-    title: 'Most avocados come from Mexico',
+    title: 'Arepas are very healthy!',
     content:
-      'While avocados are grown in California and Florida, the majority sold in grocery stores come from south central Mexico. The main reason for the abundance of “south of the border” avocados is that Mexico is blessed with a year-round growing climate. The avocado is believed to have originated in the state of Puebla, Mexico, as far back as 10,000 B.C.',
+      'The arepa is a perfect food for celiacs or for those who do not include gluten or wheat derivatives in their diet, since its base ingredient is corn.5. In addition to this, they are high in fiber and if you want during their preparation you can increase their fiber intake by adding oat flakes, grated vegetables or chia or flax seeds, for example.',
   },
   {
-    title: 'The conquistadors were huge fans.',
+    title: 'There Are Almost 70 Types Of Arepas.',
     content:
-      'Spanish explorers arriving in Mexico during the 16th century survived on avocados and were the first Europeans to consume them. As a result of the Spanish Conquest, avocados spread to South America and Central America. ',
+      'It is well known that the variety of fillings that can be placed in the arepa is extensive, but what many do not know is that there are almost 70 types of arepas!!! Not only corn, there are also cassava, yams, plantains and more... And you can even add other ingredients to the dough',
   },
   {
-    title: '“Avocado” wasn’t its original name.',
+    title: 'The Arepa, A Gift Of The Indigenous Tradition',
     content:
-      'Irishman Sir Hans Sloane called it an avocado in 1696 in a Jamaican-plants catalog. He also dubbed the avocado tree the “alligator pear tree.”',
+      'They were originated between Venezuela and Colombia. According to historical records, the indigenous cumanagotos -who inhabited what is now known as the state of Sucre in Venezuela- called the round-shaped corn preparation that they used to consume "erepa". From there and to this day is that these delicious little breads are called: "arepas"',
   },
   {
-    title: 'It’s actually a fruit.',
+    title: 'The Wonderful Precooked Cornmeal.',
     content:
-      'Did you know that an avocado is a fruit? While definitely not sweet, it falls firmly in the fruit-not the vegetable-family. That’s because the avocado tree is part of the flowering-plant family Lauraceae.',
+      'In the past, many Latin American mothers and grandmothers would get up very early to grind the corn needed to prepare the arepas. They used a huge pile of corn and piled for hours, which was heavy work. However, the way of preparation changed from 1960. With the advent of precooked corn flour, the process for making arepas was simplified, since it is not necessary to soak or grind the corn.',
   },
   {
-    title: 'There’s a secret trick to ripening them up quick',
+    title: 'The Arepa, The Best Breakfast In The World.',
     content:
-      'Need to ripen that avocado ASAP? Place it in a brown paper bag with a banana or two. The bananas will release ethylene gas, a natural plant hormone that aids in ripening fruit. On the other hand, check out this guide to learn how to store them for later.',
+      'In 2014, the arepa ranked first as the best breakfast in the world in a Thrillist ranking, specializing in international travel, food and drinks. And it is that the arepas are very versatile and let the imagination work.',
   },
 ]
 
@@ -35,15 +35,15 @@ const AboutPage = () => {
     <Layout>
       <section>
         <Header as="h1" textAlign="center">
-          13 Surprising Facts About Avocados
+          5 Interesting Facts About Arepas!
         </Header>
         <figure>
-          <Image src="/images/avocados.jpg" alt="Avocados on a table" />
+          <Image src="/images/arepas.png" alt="Arepas on a table" />
           <figcaption>
             Originally from{' '}
             <a
               target="_blank"
-              href="https://www.tasteofhome.com/article/13-surprising-facts-about-avocados/"
+              href="https://365sanguchez.com/arepa-origen-historia-curiosidades/#:~:text=La%20arepa%20es%20un%20s%C3%ADmbolo,remojar%20ni%20moler%20el%20ma%C3%ADz"
             >
               Taste of Home
             </a>

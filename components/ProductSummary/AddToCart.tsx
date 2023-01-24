@@ -68,7 +68,7 @@ const AddToCart = ({ product }: AddToCartProps) => {
         error={!!error}
         onChange={handleChange}
         action={{
-          color: 'green',
+          color: 'purple',
           content: 'Add to Cart',
           icon: 'plus cart',
           onClick: handleSubmit,
