@@ -40,7 +40,7 @@ const Footer = () => (
             <p>
               <a className='link-color' href="httNaya070ps://github.com/">@Naya070 </a>
               thanks to Platzi an its   
-              <a className='link-color'  href="https://platzi.com/">Next.JS course </a>
+              <a className='link-color'  href="https://platzi.com/"> Next.JS course </a>
               imparted by {' '}
               <a className='link-color' href="https://twitter.com/jonalvarezz">@jonalvarezz</a>
             </p>

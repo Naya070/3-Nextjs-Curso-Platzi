@@ -42,7 +42,7 @@ const KawaiiHeader = () => {
         content={ModalHeaderContent}
         onCancel={closeModal}
         onConfirm={closeModal}
-        cancelButton="Ay, lo siento"
+        cancelButton="Ay, I'm sorry!"
         confirmButton="OK"
         closeOnDimmerClick={false}
       />

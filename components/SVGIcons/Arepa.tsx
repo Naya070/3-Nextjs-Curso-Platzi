@@ -1,8 +1,8 @@
 import React from 'react'
 import { SVGIconProps } from './svg.types'
 
-const Arepa = ({ size = '34px', ...otherProps }: SVGIconProps) => (
-  <svg id="body_1" width="54" height="54">
+const Arepa = ({ size = '54px', ...otherProps }: SVGIconProps) => (
+  <svg id="body_1" width={size} height={size}>
 
 <g transform="matrix(0.20000002 0 0 0.20000002 0 0)">
 	<g>

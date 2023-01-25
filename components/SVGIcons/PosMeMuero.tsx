@@ -7,7 +7,7 @@ import { SVGIconProps } from './svg.types'
  * www.flaticon.com
  */
 const PosMeMuero = ({ size = '58px', ...otherProps }: SVGIconProps) => (
-  <svg id="body_1" width="54" height="54">
+<svg id="body_1" width="54" height="54">
 
 <g transform="matrix(0.20000002 0 0 0.20000002 0 0)">
 	<g>

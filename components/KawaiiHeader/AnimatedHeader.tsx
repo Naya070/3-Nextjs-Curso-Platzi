@@ -1,7 +1,7 @@
 import React from 'react'
 import { Header, Transition } from 'semantic-ui-react'
 
-import { Arepa } from '@components/SVGIcons'
+import {Arepa} from '@components/SVGIcons'
 
 type AnimatedHeaderProps = {
   visible: boolean
@@ -28,4 +28,4 @@ const AnimatedHeader = ({
   </Header>
 )
 
-export default AnimatedHeader
+export default AnimatedHeader;

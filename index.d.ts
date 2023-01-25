@@ -11,8 +11,7 @@ type TProductId = string
 
 type TProductAttributes = {
   description: string
-  shape: string
-  hardiness: string
+  ingredients: string
   taste: string
 }
 
