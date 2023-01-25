@@ -1,6 +1,14 @@
-# Proyecto Curso de Next.JS de Platzi
+# Página web de venta de arepas!!
 
-Curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz) para [Platzi](https://platzi.com)
+Realizado gracias a [Platzi](https://platzi.com) y su curso de NextJS dictado por [@jonalvarezz](https://twitter.com/jonalvarezz)
+
+### 💟 Are-Passion
+
+Es un lugar en donde podrás pedir las más exquisitas arepas.
+Podrás ver todos los productos que se ofrecen y ver el detalle de cada uno.
+También podrás agrgar los productos a la cesta de compras.
+Podrás leer algunas curiosidades sobre las arepas, aunque está en inglés.
+Haz click muchas veces al logo de la arepa que se encuentra entre el nombre de la página para asesinarla >:D
 
 ### 🚀 Logros
 
