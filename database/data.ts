@@ -112,7 +112,7 @@ const data: Record<TProductId, TProduct> = {
     attributes: {
       description:
         'This arepa of Zulian origin takes the prize for the most intricate preparation on the list. First, the roasted arepa is opened and a slice of mortadella is placed on it. Then it is closed, passed through flour and egg, and fried in oil. Finally, the breaded arepa is filled with cheese, chopped cabbage, tomato, ketchup and mayonnaise.',
-      ingredients: 'Mortadela, cheese, cabbage, tomato, ketchup, mayonnaise',
+      ingredients: 'Mortadella, cheese, cabbage, tomato, ketchup, mayonnaise',
       taste: 'Splendid, a crunchy arepa on the outside and soft on the inside that will make you wish you had tried it before.',
     },
   },
